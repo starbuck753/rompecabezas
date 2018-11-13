@@ -1,4 +1,4 @@
-# rompecabezas
+# Rompecabezas
 Puzzle!
 
 Code for a simple puzzle. 
